@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    padding: auto 0;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    gap: 100px;
+
+}
+
+.card{
+    margin: 20px;
+}
+
+.text{
+
+}
+
+.buton{
+    padding: 20px;
+    background: #B88E2F;
+    color: #fff;
+}
